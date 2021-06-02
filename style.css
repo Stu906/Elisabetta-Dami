@@ -1,0 +1,359 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+#bio{
+    text-align: left;
+}
+#hbio{
+    margin-top: 150px;
+    text-align: center;
+}
+#head{
+    text-align: center;
+    margin-left: 255px;
+}
+#pic {
+    width: 100%;
+    height: 700px;
+}
+#head1 {
+    font-size: 50px;
+    margin-bottom: -1;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.section-style{
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: justify;
+}
+.img {
+    width: 115px;
+    height: auto;
+}
+#pa{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.bel {
+    font-size: 35px;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+#endline {
+    background-color: blue;
+    padding: 24%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    border-style: dotted;
+    border-color: aqua;
+    border-width: thick;
+}
+.para-section {
+    display: flex;
+    justify-content: center;
+}
+.section_style {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.menu {
+    color: crimson;
+    background-color: white;
+    position: fixed;
+    background: white;
+    margin-top: 5px;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    font-size: 40px;
+}
+.item {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 35px;
+}
+.item:hover{
+    text-decoration: underline;
+    font-size: 40px;
+    cursor: pointer;
+}
+.para2-section{
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+#ihave{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0;
+}
+#kid{
+    margin-left: 60px;
+    border-radius: 50%;
+}
+#ps1{
+    margin-right: 40px;
+    border-radius: 10%;
+    border-style: solid;
+    padding: 5px;
+}
+.PDaED{
+    text-align: center;
+    font-size: 20px;
+}
+#FSIP{
+    font-size: 40px;
+    font-weight: bold;
+}
+#ps1para{
+    font-weight: bold;
+    font-size: 20px
+}
+.para3-section{
+    background-color: lime;
+    display: flex;
+    justify-content: center;
+}
+#ps2{
+    margin: 10px;
+}
+#ps2para{
+    font-size: 20px;
+}
+.para4-section{
+    display: flex;
+    justify-content: center;
+}
+.para4-section h1{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+#pic3{
+    border-radius: 50%;
+    margin-top: 30px;
+    border: grey solid;
+}
+#pic3para{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+}
+#pic3para2{
+    text-align: center;
+    font-size: 20px;
+    margin-top: -15;
+}
+.para5-section{
+    display: flex;
+    justify-content: center;
+    background-color: lightcoral;
+}
+.para5-section h1{
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    margin-top: 70px;
+}
+.para5-section img{
+   margin: 20px;
+}
+.para6-section{
+    display: flex;
+    justify-content: center;
+    background-color: lightsalmon;
+}
+.para6-section img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 30px;
+}
+.para6-section h1{
+    margin-top: 60px;
+}
+.para6-section p{
+    font-size: 20px;
+}
+.para7-section{
+    display: flex;
+    justify-content: center;
+}
+.para7-section img{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-top: 50px;
+    margin-right: 70px;
+}
+#iln{
+    font-size: 70px;
+    font-family: 'Girassol', cursive;
+    margin-bottom: -2;
+}
+.para8-section{
+    display: flex;
+    justify-content: center;
+}
+#ps10{
+    width: 610px;
+    height: 410px;
+}
+#ps11{
+    width: 310px;
+    height: 390px;
+}
+#ps12{
+    width: 360px;
+    height: 200px;
+}
+.para8-section img{
+    margin-right: 8px;
+    margin-left: 8px;
+}
+.para8-section p{
+    text-align: center;
+    font-size: 20px;
+}
+#wwf{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.para9-section,.para10-section{
+    display: flex;
+    justify-content: center;
+    background-color: lawngreen;
+}
+.para9-section img{
+    margin-left: 27px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+.para10-section img{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+}
+.para9-section p,.para10-section p{
+    margin-right: 50px;
+    font-size: 25px;
+}
+.para9-section h1,.para10-section h1{
+    margin-right: 70px;
+}
+.para11-section{
+    display: flex;
+    justify-content: center;
+}
+#ps15{
+   width: 300px;
+}
+#ps16{
+    margin-left: 40px;
+}
+.para11-section img{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.para11-section p{
+     text-align: center;
+}
+#logo{
+    margin-top: 50px;
+}
+.para12-section{
+    display: flex;
+    justify-content: center;
+    background-color: lightgoldenrodyellow;
+    margin-top: 20px;
+}
+.para12-section h1,.para12-section p,.para12-section img{
+    margin-left: 20px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 50%;
+}
+.para12-section p{
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.para13-section{
+    display: flex;
+    justify-content: center;
+}
+.para13-section p,.para13-section h1{
+    margin-right: 450px;
+    margin-top: 40px;
+}
+.para13-section img{
+    margin-top: 20px;
+    border-radius: 50%;
+    margin-right: 70px;
+    width: 230px;
+    height: 240px;
+}
+.para13-section p{
+    font-size: 20px;
+    font-weight: bold;
+}
+#pass{
+    font-size: 40px;
+    background-color: navajowhite;
+    margin-bottom: 0px;
+}
+.para14-section{
+    display: flex;
+    justify-content: center;
+    background-color: navajowhite;
+}
+.para14-section img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.para14-section p{
+    text-align: center;
+    font-size: 20px;
+}
+#ps21p{
+   margin-top: 10px; 
+}
+#ps22p{
+   margin-top: 40px; 
+}
+#ps23p{
+   margin-top: 70px; 
+}
+#rib{
+    margin-bottom: -185px;
+    width: 600px;
+}
+#ribc{
+    font-size: 45px;
+    color: white;
+}
+#rib2{
+    margin-bottom: -230px;
+    width: 600px;
+}
+#rib2c{
+    font-size: 40px;
+    color: black;
+}
